@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "todo-manager": {
+            "command": "node",
+            "args": [
+                "<ĐƯỜNG_DẪN_ĐẾN_PROJECT>/build/index.js"
+            ]
+        }
+    }
+}
