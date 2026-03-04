@@ -69,8 +69,3 @@ npm start       # Chạy file đã build
 | `edit_todo` | Sửa nội dung/priority | `id`* · `task` · `priority` |
 | `clear_done` | Dọn sạch việc đã xong | — |
 
-## Ví dụ dùng trong Claude
-
-> _"Thêm todo: Đọc tài liệu MCP, ưu tiên cao"_
-> _"Xem danh sách việc chưa xong"_
-> _"Đánh dấu xong todo số 1"_
